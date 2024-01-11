@@ -4,6 +4,11 @@ body
     background-size: 100%;
     background-repeat:no-repeat;
 }
+h1 {
+    color: blue;
+    text-align: center;
+}
+
 .start {
     width:650px;
     padding:10px;
@@ -15,9 +20,60 @@ body
     display: block;
     margin: auto;
 }
-h1 {
-  color: red;
+
+.start {
+    width: 320px;
+    height: 200px;
+    border: 2px solid white;
+    margin-right: 20px;
+    border-radius: 5px;
+    display: block;
+    margin: auto;
 }
+
+h2 {
+    color: blue;
+    text-align: center;
+    flex-wrap: wrap;
+}
+
+.test {
+    display: flex;
+    flex-wrap: wrap;
+}
+
+.test {
+    width:450px;
+    padding:10px;
+    margin:15px;
+    margin-bottom:30px;
+    background:lightblue;
+    border-radius:5px;
+    box-shadow:5px 8px darkcyan;
+}
+
+.test {
+    width: 360px;
+    height: 200px;
+    border: 2px solid darkslateblue;
+    margin-right: 10px;
+    border-radius: 5px;
+    display: block;
+    margin: auto;
+}
+
+.download {
+    padding:2px;
+    background:white;
+    border-radius:5px;
+    box-shadow:5px 8px lightslategray;
+}
+
+.description {
+    height: 100px;
+}
+
 p {
-  color: green;
+    text-align: center;
+    font-weight: 700;
 }
