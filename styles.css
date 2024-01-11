@@ -4,6 +4,17 @@ body
     background-size: 100%;
     background-repeat:no-repeat;
 }
+.start {
+    width:650px;
+    padding:10px;
+    margin:15px;
+    margin-bottom:30px;
+    background: white;
+    border-radius:5px;
+    box-shadow:5px 8px #49b4b4;
+    display: block;
+    margin: auto;
+}
 h1 {
   color: red;
 }
