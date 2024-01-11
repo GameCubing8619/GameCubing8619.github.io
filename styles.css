@@ -47,9 +47,9 @@ h2 {
     padding:10px;
     margin:15px;
     margin-bottom:30px;
-    background:lightblue;
+    background:#0d0d0d;
     border-radius:5px;
-    box-shadow:5px 8px darkcyan;
+    box-shadow:5px 8px #bf00ff;
 }
 
 .hack img {
