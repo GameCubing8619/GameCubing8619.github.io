@@ -64,9 +64,9 @@ h2 {
 
 .download {
     padding:2px;
-    background:#0d0d0d;
+    background:#bf00ff;
     border-radius:5px;
-    box-shadow:5px 8px #bf00ff;
+    box-shadow:5px 8px #0d0d0d;
 }
 
 .describe {
