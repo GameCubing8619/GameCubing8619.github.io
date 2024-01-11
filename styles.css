@@ -5,5 +5,8 @@ body
     background-repeat:no-repeat;
 }
 h1 {
-  color: purple;
+  color: red;
+}
+p {
+  color: green;
 }
