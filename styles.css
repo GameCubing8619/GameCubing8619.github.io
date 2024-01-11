@@ -14,7 +14,7 @@ h1 {
     padding:10px;
     margin:15px;
     margin-bottom:30px;
-    background: white;
+    background: #0d0d0d;
     border-radius:5px;
     box-shadow:5px 8px #bf00ff;
     display: block;
@@ -74,6 +74,7 @@ h2 {
 }
 
 p {
+    color: #bf00ff
     text-align: center;
     font-weight: 700;
 }
